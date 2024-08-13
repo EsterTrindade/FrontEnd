@@ -1,0 +1,72 @@
+#container{
+    width: 2000px;
+    height: auto;
+}
+
+header{
+    width: 1544px;
+    height: 350px;
+    background-color: rgb(40, 189, 132)
+}
+
+section{
+    width: 1544px;
+    height: 400px;
+    background-color: rgb(51, 51, 51);
+}
+
+main{
+    width: 1900px;
+    height: auto;
+    background-color: rgb(51, 51, 51);
+}
+
+aside{
+    width: 772px;
+    height: 500px;
+    background-color: aquamarine;
+    float: left;
+}
+
+article{
+    width: 1544px;
+    height: 100px;
+    float: left;
+}
+
+.quadrado1{
+    width: 386px;
+    height: 250px;
+    background-color: rgb(156, 156, 156);
+    float: left;
+}
+
+.quadrado2{
+    width: 386px;
+    height: 250px;
+    background-color: rgb(226, 0, 0);
+    float: left;
+}
+
+.quadrado3{
+    width: 386px;
+    height: 250px;
+    background-color: rgb(23, 194, 165);
+    float: left;
+}
+
+.quadrado4{
+    width: 386px;
+    height: 250px;
+    background-color: rgb(130, 190, 16);
+    float: left;
+}
+
+footer{
+    width: 2000px;
+    height: 350px;
+    background-color: gray;
+    float: left;
+}
+
+

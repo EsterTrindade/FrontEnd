@@ -1,0 +1,48 @@
+#container{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+header{
+    width: 1000px;
+    height: 150px;
+    background-color: orange;
+}
+
+.banner{
+    width: 1000px;
+    height: 350px;
+    background-color: crimson;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+main{
+    width: 1000px;
+    height: auto; /*No "main" devemos sempre deixar o valor do atributo "height" em auto, pois ele vai aumentando conforme acrescentamos conteúdo."*/
+    background-color: black;
+}
+
+aside{
+    width: 300px;
+    height: 250px;
+    background-color: cornflowerblue;
+    float: left;
+}
+
+article{
+    width: 690px;
+    height: 250px;
+    background-color: greenyellow;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    width: 1000px;
+    height: 250px;
+    background-color: orange;
+    clear: left; /*Ele serve para limpar o status "float", seja left, right ou both (ambos), sendo assim ele ignoraria todas as "divs" que possuem este atributo (float)*/
+}

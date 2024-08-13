@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+
+figure{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(148, 2, 2);
+    color: white;
+}
+
+button{
+
+    width: 120px;
+    height: 30px;
+    background-color: rgb(236, 210, 58);
+    color: darkred;
+    font-weight: bold;
+    border-radius: 10px;
+    border-color: darkred;
+
+}
+
+figure img{
+    border-radius: 20px;
+    border-style: double
+}
+
+

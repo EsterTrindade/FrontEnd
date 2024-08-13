@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    color: white;
+}
+
+
+.redstone{
+    color: rgb(218, 46, 46); /*O atributo color insere cor dentro de um texto*/
+    
+}
+
+p{
+    color: white;
+}
+
+
+body{
+    background-color: rgb(22, 13, 109);
+}
+
+.pgreen{
+    color: rgb(9, 168, 9);
+}
