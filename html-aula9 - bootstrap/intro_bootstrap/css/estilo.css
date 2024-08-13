@@ -1,0 +1,11 @@
+.alert-danger{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(121, 121, 248);
+    color: white;
+    border-color: rgb(121, 121, 248);
+}
+
+h1{
+    text-align: center;
+}
