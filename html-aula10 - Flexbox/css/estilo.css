@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+}
+
+.azul{
+    background-color: blue;
+    height: 100vh;
+}
+
+.amarelo{
+    background-color: yellow;
+}
+
+.vermelho{
+    background-color: red;
+}
+
+/*SECTION - CAIXA PAI*/
+
+section{
+    display: flex;
+    background-color: darkkhaki;
+    height: 100vh;
+    flex-wrap: wrap; /*Quando um dos flex itens atinge o limite do conteúdo, o último item passa para a linha debaixo.*/
+    gap: 10px;
+
+}
